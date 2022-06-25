@@ -1,4 +1,0 @@
-def root():
-  print('Init')
-  print("Hello world!")
-  
